@@ -1,0 +1,6 @@
+{
+	"label":	"WIFI",
+	"icon":	"/mnt/SDCARD/Themes/OOSFC_v2/icons/app/terminal.png",
+	"launch":	"launch.sh",
+	"description":	"Add current WIFI password to the list"
+}
